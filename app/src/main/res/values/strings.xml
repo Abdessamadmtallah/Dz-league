@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DzLeague</string>
+    <string name="subtitle">SCORES &amp; DIRECTS ALGÉRIE</string>
+    <string name="live_count">%1$d LIVE</string>
+    <string name="chip_all">Tous les matchs (%1$d)</string>
+    <string name="chip_live">En direct (%1$d)</string>
+    <string name="chip_tlemcen">Tlemcen (%1$d)</string>
+    <string name="chip_oran">Oran (%1$d)</string>
+    <string name="chip_alger">Alger (%1$d)</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_leagues">Ligues</string>
+    <string name="nav_calendar">Calendrier</string>
+    <string name="nav_favorites">Favoris</string>
+    <string name="nav_settings">Paramètres</string>
+    <string name="soon">Bientôt disponible</string>
+</resources>
